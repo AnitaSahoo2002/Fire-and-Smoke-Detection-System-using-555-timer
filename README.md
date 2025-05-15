@@ -96,7 +96,7 @@ The NE555 timer is configured in monostable mode. When a threshold temperature o
 
 ## 🔧 Working Model
 
-![Working Model](images/working_model.jpg)
+![Working Model](image.png)
 
 ## 🔌 Circuit Diagram
 

@@ -17,6 +17,7 @@ This project presents a cost-effective and straightforward fire and smoke detect
 - [Circuit Diagram](#circuit-diagram)
 - [References](#references)
 
+
 ---
 
 ## 🔍 Project Overview

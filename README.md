@@ -6,17 +6,16 @@ This project presents a cost-effective and straightforward fire and smoke detect
 
 ## 📋 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Objectives](#objectives)
-- [Hardware Components](#hardware-components)
-- [Circuit Description](#circuit-description)
-- [Working Principle](#working-principle)
-- [Applications](#applications)
-- [Limitations](#limitations)
-- [Getting Started](#getting-started)
-- [Circuit Diagram](#circuit-diagram)
-- [References](#references)
-
+1. [Project Overview](#project-overview)
+2. [Objectives](#objectives)
+3. [Hardware Components](#hardware-components)
+4. [Circuit Description](#circuit-description)
+5. [Working Principle](#working-principle)
+6. [Applications](#applications)
+7. [Limitations](#limitations)
+8. [Getting Started](#getting-started)
+9. [Circuit Diagram](#circuit-diagram)
+10. [References](#references)
 
 ---
 
@@ -49,7 +48,6 @@ This project is focused on developing a simple yet effective fire and smoke dete
 | **Power Supply**   | 9V Battery or DC adapter                                |
 | **Breadboard/PCB** | For circuit assembly and prototyping                    |
 | **Connecting Wires** | Jumper wires (male-to-male) for circuit connections   |
-
 
 ---
 
